@@ -1,0 +1,103 @@
+So what is web3 actually?
+
+well to understand that we need to brush up what web is?
+
+Simply put Web is a network of computers connected to each other via internet. Web is a place where we can share information and communicate with each other.
+
+To get a better understanding of web, we need to understand how web evolved over the years.
+when web was first introduced it was called web 1.0. It was a read only web. We could only read the information on the web. We could not interact with the web. It was a static web.
+
+Then came web 2.0. It was a read and write web. We could read and write information on the web. We could interact with the web. It was a dynamic web.
+
+Now we are entering into web 3.0. It is a read, write and execute web. We can read, write and execute information on the web. We can interact with the web. It is a dynamic web.
+but what does it mean to execute information on the web? what really is web3?
+
+Web 3.0 or web3 is based on decentralization of the web. Taking the control from large companies and organizations and giving it to the people using the web.
+What is decentralization?
+decentralization is the process of distributing or dispersing functions, powers, people or things away from a central location or authority.
+Giving the power to the people. It is the opposite of centralization. It is more democratic. It is more fair. It is more transparent. It is more secure. It is more private. It is more censorship resistant. It is more open. It is more inclusive. It is more accessible. It is more interoperable. It is more permissionless. It is more programmable. It is more scalable. It is more efficient. It is more resilient. It is more sustainable. It is more collaborative. It is more innovative. It is more creative. It is more fun. It is more human. It is more free.
+
+Web 3.0 works on the blockchain technology which is a decentralized technology. It is a distributed ledger technology.
+Introduced with bitcoin in 2009, blockchain technology has found its use in many other applications.
+including finance, healthcare, education, governance, supply chain, energy, real estate, insurance, gaming, art, music, sports, entertainment, social media, etc.
+
+So what is blockchain? and how does web3 operate with its help?
+Blockchain is a type of ledger system. 
+whenever a transaction happens it is recorded on a block (block is nothing but a simple data structure).
+This block's address is linked to the previous block's address. This creates a chain of blocks. Hence the name blockchain.
+This chain of blocks is distributed across the network of computers. Hence the name distributed ledger technology.
+These computers are called nodes. These nodes are connected to each other via internet. Hence the name internet of value.
+These nodes are run by people like you and me. Hence the name people's network.
+
+Simply put nodes are computers that follow certain rules. These rules are called consensus rules. These rules are defined by the community.
+These nodes verify all the transactions happening on the network in accordance with the consensus rules.
+Every node has a copy of the ledger. A full node has the complete copy of the ledger(blockchain) from its genesis(first) block to the latest block.
+A light node has a copy of the ledger(blockchain) from the latest block to the block it was created on.
+
+This makes the blockchain transparent and accessible to everyone. Everyone can see the transactions happening on the blockchain. Thus making it more democratic.
+These transactions are immutable. They cannot be changed. Thus making it more secure.
+
+since all the nodes have a copy of the ledger(blockchain), this makes the blockchain immutable and censorship resistant.
+Blockchain cannot be hacked easily because it is distributed across the network of computers. Thus making it more secure.
+
+But all this needs computational power. This computational power is provided by the nodes.
+Nodes are rewarded for providing this computational power. This reward is called block reward. This block reward is paid in the native currency of the blockchain.
+This currency is called cryptocurrency. This cryptocurrency is used to pay for the transactions happening on the blockchain.
+The name crytocurrency comes from the fact that it uses cryptography to secure the transactions happening on the blockchain. Elliptic curve cryptography to be precise.
+
+So now we have a decentralized network of computers connected to each other via internet, a currency to operate with and a ledger to record the transactions happening on the network.
+This is the basic infrastructure of web3.
+Now we can build applications on top of this infrastructure. These applications are called dapps(decentralized applications).
+These dapps are open source. Anyone can build them. Anyone can use them. Anyone can contribute to them. Anyone can improve them. Anyone can fork them.
+These dapps are permissionless. Anyone can use them.
+
+These dapps are interoperable.
+These decentralized applications are built on top of the blockchain. They are built using smart contracts.
+Smart contracts are nothing but computer programs that run on the blockchain. When there conditions are met they execute the code written in them. Unlike traditional contracts, smart contracts are self executing. They do not need any third party to execute them. They are executed by the nodes on the blockchain.
+They are written in a programming language called solidity(for ethereum blockchain).
+These smart contracts are immutable. They cannot be changed. They are deployed on the blockchain. They are executed on the blockchain.
+When a smart contract is deployed on the blockchain, it is assigned an address. This address is used to interact with the smart contract.
+These smart contracts are open source.
+
+Finance happening on the blockchain is called defi(decentralized finance). It is also one of the most popular use cases of blockchain technology.
+
+NFTs(non fungible tokens) are also one of the most popular use cases of blockchain technology. NFTs are used to represent digital assets on the blockchain. They are used to represent digital art, music, videos, etc. They are also used to represent real world assets like real estate, cars, etc.
+They are the proof of ownership of the digital assets. They are also used to represent the ownership of the real world assets.
+
+DAOs(decentralized autonomous organizations) are also one of the most popular use cases of blockchain technology. 
+People have been using DAOs for a long time. They are the communities which is the most important part of web3. They are the people who run the nodes on the blockchain. They are the people who build the dapps on the blockchain. They are the people who use the dapps on the blockchain. They are the people who contribute to the dapps on the blockchain. They are the people who improve the dapps on the blockchain.
+They are the people who make the blockchain more democratic, more fair, more transparent, more secure, more private, more censorship resistant.
+
+Since, web3 is in it's starting days there are many challenges that need to be solved.
+One of the biggest challenges is scalability.
+Scalability is the ability of a system to handle a growing amount of work or its potential to be enlarged to accommodate that growth.
+Scalability is one of the most important factors in web3. It is the key to mass adoption of web3. Since blockchains are stored and every block needs to be mined and verified it makes the blockchain technology slow and un scalable.
+
+This gives rise to the Blockchain trilemma. The blockchain trilemma states that a blockchain cannot be scalable, decentralized and secure at the same time. It can only be two of the three.
+Community is working on solving this problem. There are many solutions to this problem. One of the most popular solution is sharding. Sharding is the process of splitting the blockchain into smaller chains called shards. These shards are then distributed across the network of computers. This makes the blockchain more scalable. This makes the blockchain more decentralized. This makes the blockchain more secure.
+
+At the end of the day this is what Web 3.0 or web3 is at a starting level.
+
+Some of the more advanced concepts of web3 are:
+Layer 2 solutions
+Cross chain interoperability
+Decentralized storage
+Decentralized computing
+proof of stake
+proof of work
+proof of authority
+proof of history
+
+These topics are out of the scope of this article. I will cover them in a separate article. I will also cover mining, staking and other topics in a separate article.
+I'll also cover cryptography and cryptographic algorithms used in blockchain technology in a separate article.
+There are many other blockchains. Some of the most popular blockchains are ethereum, polkadot, cardano, solana, avalanche, fantom, etc. I'll cover them in a separate article.
+
+I hope this article helped you understand what web3 is and how it works.
+If you have any questions or suggestions please let me know in the comments below.
+If you liked this article please share it with your friends and family.
+Thank you for reading this article. I'll see you in the next one.
+
+PS: This is my first article. I'll try to improve my writing skills in the future articles.
+
+Conclusion:
+Web 3.0 is the next generation of the internet.
