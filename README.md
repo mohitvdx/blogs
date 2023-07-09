@@ -1,1 +1,1 @@
-Here are teh tech blogs that I write
+Here are the tech blogs that I write
